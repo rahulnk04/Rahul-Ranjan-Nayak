@@ -57,7 +57,6 @@
 
 ---
 
-## 🛠️ Deep-Dive Technical Spectrum
 
 <div align="left">
   <table width="100%" border="0" cellpadding="10" cellspacing="0" style="border-collapse: collapse; background-color: #0d1117;">
@@ -108,40 +107,185 @@
 </div>
 
 ---
+---
 
-## 🏢 Professional Journey Matrix
+## 🛠️ Deep-Dive Technical Spectrum
 
 <div align="left">
-  <table width="100%" border="0" cellpadding="8" style="border-collapse: collapse;">
-    <tr bgcolor="#1f242c">
-      <td width="25%"><b>📅 Timeline Period</b></td>
-      <td width="40%"><b>🏢 Enterprise Institution & Title</b></td>
-      <td width="35%"><b>📍 Core Impact Footprint</b></td>
+  <table width="100%" border="0" cellpadding="12" cellspacing="0" style="border-collapse: collapse;">
+    <tr bgcolor="#161b22">
+      <th align="left" width="50%">
+        <h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="22" style="vertical-align: middle; margin-right: 6px;"/> Frontend Architecture Core</h3>
+      </th>
+      <th align="left" width="50%">
+        <h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="22" style="vertical-align: middle; margin-right: 6px;"/> Data, Backend & State</h3>
+      </th>
     </tr>
     <tr>
-      <td><b>Nov 2025 - Present</b></td>
-      <td><img src="https://img.shields.io/badge/TCS-💻-FF9900" /> <b>Tata Consultancy Services</b><br/><i>Senior Lead Consultant</i></td>
-      <td>Spearheading frontend strategy, governing Next.js applications, and aligning multi-team architectures.</td>
+      <td valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d;">
+        <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="16" /> <b>Next.js (SSR / SSG)</b> — <i>Expert (95%)</i> <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="16" /> <b>React.js</b> (Hooks, Context) — <i>Expert (95%)</i> <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="16" /> <b>JavaScript (ES6+)</b> — <i>Expert (95%)</i> <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="16" /> <b>TypeScript Core</b> — <i>Advanced (75%)</i> <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="16" /> <b>Micro-Frontend Layouts</b> — <i>Advanced (80%)</i> <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="16" /> <b>HTML5 & CSS3 Architecture</b> — <i>Advanced (75%)</i>
+        <br /><br />
+      </td>
+      <td valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d;">
+        <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="16" /> <b>Node.js & Express.js</b> — <i>Advanced (90%)</i> <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="16" /> <b>Redux Core & Toolkit</b> — <i>Advanced (80%)</i> <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" height="16" /> <b>GraphQL & Apollo Client</b> — <i>Advanced (75%)</i> <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="16" /> <b>MongoDB NoSQL Systems</b> — <i>Intermediate (70%)</i> <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="16" /> <b>MySQL & Sequelize ORM</b> — <i>Intermediate (75%)</i> <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="16" /> <b>NestJS Framework Layers</b> — <i>Advanced (90%)</i>
+        <br /><br />
+      </td>
     </tr>
     <tr bgcolor="#161b22">
-      <td><b>Oct 2022 - Present</b></td>
-      <td><img src="https://img.shields.io/badge/OPTUM-🏥-5C2D91" /> <b>UnitedHealth Group, Optum</b><br/><i>Senior Lead Engineer</i></td>
-      <td>Architecting high-performance platform solutions, optimizing infrastructure, and governing state patterns.</td>
+      <th align="left" width="50%">
+        <h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="22" style="vertical-align: middle; margin-right: 6px;"/> Ecosystem Tools & Testing</h3>
+      </th>
+      <th align="left" width="50%">
+        <h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" height="22" style="vertical-align: middle; margin-right: 6px;"/> Delivery & Methodologies</h3>
+      </th>
     </tr>
     <tr>
-      <td><b>Apr 2024 - Oct 2025</b></td>
-      <td><img src="https://img.shields.io/badge/SAPIENT-🚀-FE0000" /> <b>Publicis Sapient</b><br/><i>Senior Experience Engineer</i></td>
-      <td>Built complex micro-frontend systems using Next.js 13/14, improving page speeds by 20%.</td>
+      <td valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d;">
+        <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="16" /> <b>Git Version Layering</b> — <i>Advanced (80%)</i> <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="16" /> <b>VS Code & IntelliJ IDEA</b> — <i>Advanced (85%)</i> <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" height="16" /> <b>Jest Integration Frameworks</b> — <i>Intermediate (70%)</i> <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-icon.svg" height="16" /> <b>Postman API Sandboxing</b> — <i>Advanced (75%)</i> <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" height="16" /> <b>Webpack & Babel Bundling</b> — <i>Advanced (75%)</i> <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="16" /> <b>Jupyter Environment Notebooks</b> — <i>Advanced (75%)</i>
+        <br /><br />
+      </td>
+      <td valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d;">
+        <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" height="16" /> <b>Agile, Scrum Processes & Jira</b> — <i>Advanced (80%)</i> <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="16" /> <b>GitHub Actions & DevOps CI/CD</b> — <i>Advanced (75%)</i> <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="16" /> <b>Tailwind CSS & Utility Systems</b> — <i>Intermediate (50%)</i> <br />
+        <img src="https://img.shields.io/badge/💬-Mentorship--85%25--000000?style=flat-square" height="14" style="vertical-align: middle;" /> <b>Engineering Team Mentorship</b> — <i>(85%)</i> <br />
+        <img src="https://img.shields.io/badge/🧠-Problem--Solving--85%25--000000?style=flat-square" height="14" style="vertical-align: middle;" /> <b>Analytical Problem-Solving</b> — <i>(85%)</i> <br />
+        <img src="https://img.shields.io/badge/👥-Teamwork--80%25--000000?style=flat-square" height="14" style="vertical-align: middle;" /> <b>Cross-Functional Collaboration</b> — <i>(80%)</i>
+        <br /><br />
+      </td>
     </tr>
-    <tr bgcolor="#161b22">
-      <td><b>Apr 2022 - Mar 2024</b></td>
-      <td><img src="https://img.shields.io/badge/SAPIENT-⚙️-FE0000" /> <b>Publicis Sapient</b><br/><i>Associate Technology Level 2</i></td>
-      <td>Developed full-stack web platforms supporting 100K+ concurrent users via custom API integration layers.</td>
+  </table>
+</div>
+
+---
+
+## 🏢 Professional Journey Timeline
+
+<div align="left">
+  <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td width="18%" valign="top" align="right">
+        <br /><b>Nov 2025 — Present</b>
+      </td>
+      <td width="5%" valign="top" align="center" style="font-size: 20px; color: #007ACC;">
+        <br />🔵<br />┃<br />┃
+      </td>
+      <td width="77%" valign="top">
+        <table width="100%" border="0" cellpadding="10" bgcolor="#161b22" style="border-radius: 8px; margin-bottom: 10px; border: 1px solid #30363d;">
+          <tr>
+            <td>
+              <img src="https://github.com/user-attachments/assets/a06549d8-8216-4bb1-94e6-298a22746cc0" alt="TCS Logo" height="28" style="vertical-align: middle; margin-right: 8px;" />
+              <b style="font-size: 16px; vertical-align: middle;">Tata Consultancy Services (TCS)</b>
+              <br /><i>Senior Lead Consultant</i> • <small>Bhubaneswar, India</small>
+              <p style="margin-top: 8px; color: #8b949e;">Spearheading frontend architectural strategy, governing Next.js applications, and aligning enterprise multi-team delivery cycles.</p>
+              <code>Next.js</code> <code>Architecture</code> <code>Governance</code> <code>CI/CD Pipelines</code>
+            </td>
+          </tr>
+        </table>
+      </td>
     </tr>
     <tr>
-      <td><b>Jul 2020 - Apr 2022</b></td>
-      <td><img src="https://img.shields.io/badge/DXC-🌐-6F4E37" /> <b>DXC Technology</b><br/><i>Associate Professional</i></td>
-      <td>Engineered reusable component systems and accelerated asset delivery times by 15%.</td>
+      <td width="18%" valign="top" align="right">
+        <br /><b>Oct 2022 — Present</b>
+      </td>
+      <td width="5%" valign="top" align="center" style="font-size: 20px; color: #5C2D91;">
+        <br />🟣<br />┃<br />┃
+      </td>
+      <td width="77%" valign="top">
+        <table width="100%" border="0" cellpadding="10" bgcolor="#0d1117" style="border-radius: 8px; margin-bottom: 10px; border: 1px solid #21262d;">
+          <tr>
+            <td>
+              <img src="https://github.com/user-attachments/assets/a49e2217-4abd-4d91-b0b2-14303fbe06a9" alt="Optum Logo" height="24" style="vertical-align: middle; margin-right: 8px;" />
+              <b style="font-size: 16px; vertical-align: middle;">UnitedHealth Group, Optum</b>
+              <br /><i>Senior Lead Engineer</i> • <small>Hyderabad, India</small>
+              <p style="margin-top: 8px; color: #8b949e;">Architecting high-performance platform solutions, optimizing infrastructure, and governing state management orchestration layers.</p>
+              <code>ReactJS</code> <code>System Design</code> <code>State Architecture</code> <code>Optimization</code>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td width="18%" valign="top" align="right">
+        <br /><b>Apr 2024 — Oct 2025</b>
+      </td>
+      <td width="5%" valign="top" align="center" style="font-size: 20px; color: #FE0000;">
+        <br />🔴<br />┃<br />┃
+      </td>
+      <td width="77%" valign="top">
+        <table width="100%" border="0" cellpadding="10" bgcolor="#161b22" style="border-radius: 8px; margin-bottom: 10px; border: 1px solid #30363d;">
+          <tr>
+            <td>
+              <img src="https://github.com/user-attachments/assets/2ea4c79d-c478-40a3-bd0e-d82698a56520" alt="Publicis Sapient Logo" height="24" style="vertical-align: middle; margin-right: 8px;" />
+              <b style="font-size: 16px; vertical-align: middle;">Publicis Sapient</b>
+              <br /><i>Senior Experience Engineer</i> • <small>Hyderabad, India</small>
+              <p style="margin-top: 8px; color: #8b949e;">Built complex, scalable micro-frontend applications using Next.js 13/14, successfully improving page speeds by 20%.</p>
+              <code>Next.js 14</code> <code>Micro-Frontends</code> <code>SSR</code> <code>Team Mentorship</code>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td width="18%" valign="top" align="right">
+        <br /><b>Apr 2022 — Mar 2024</b>
+      </td>
+      <td width="5%" valign="top" align="center" style="font-size: 20px; color: #FE0000;">
+        <br />🔴<br />┃<br />┃
+      </td>
+      <td width="77%" valign="top">
+        <table width="100%" border="0" cellpadding="10" bgcolor="#0d1117" style="border-radius: 8px; margin-bottom: 10px; border: 1px solid #21262d;">
+          <tr>
+            <td>
+              <img src="https://github.com/user-attachments/assets/2ea4c79d-c478-40a3-bd0e-d82698a56520" alt="Publicis Sapient Logo" height="24" style="vertical-align: middle; margin-right: 8px;" />
+              <b style="font-size: 16px; vertical-align: middle;">Publicis Sapient</b>
+              <br /><i>Associate Technology Level 2</i> • <small>Bangalore, India</small>
+              <p style="margin-top: 8px; color: #8b949e;">Developed robust full-stack web platforms supporting 100K+ concurrent users via custom REST/GraphQL API integration layers.</p>
+              <code>Node.js</code> <code>GraphQL</code> <code>REST APIs</code> <code>High Concurrency</code>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td width="18%" valign="top" align="right">
+        <br /><b>Jul 2020 — Apr 2022</b>
+      </td>
+      <td width="5%" valign="top" align="center" style="font-size: 20px; color: #6F4E37;">
+        <br />🟤<br />▪️
+      </td>
+      <td width="77%" valign="top">
+        <table width="100%" border="0" cellpadding="10" bgcolor="#161b22" style="border-radius: 8px; border: 1px solid #30363d;">
+          <tr>
+            <td>
+              <img src="https://github.com/user-attachments/assets/32e276fd-1d09-43aa-ba15-1a4c04c3d899" alt="DXC Logo" height="24" style="vertical-align: middle; margin-right: 8px;" />
+              <b style="font-size: 16px; vertical-align: middle;">DXC Technology</b>
+              <br /><i>Associate Professional</i> • <small>Chennai, India</small>
+              <p style="margin-top: 8px; color: #8b949e;">Engineered highly reusable component systems and modular frontend layouts, accelerating asset delivery times by 15%.</p>
+              <code>React.js</code> <code>UI Elements</code> <code>Asset Optimization</code> <code>Agile Systems</code>
+            </td>
+          </tr>
+        </table>
+      </td>
     </tr>
   </table>
 </div>
